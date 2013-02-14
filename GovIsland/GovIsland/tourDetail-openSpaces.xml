@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<locations>
+    <location name="Brick Row Park" url="brickRowPark"></location>
+    <location name="Nolan Park" url="nolanPark"></location>
+    <location name="Parade Ground" url="paradeGround"></location>
+    <location name="Picnic Point" url="picnicPoint"></location>
+    <location name="South Island Field" url="southIslandField"></location>
+    <location name="Liggett Terrace" url="liggettTerrace"></location>
+</locations>

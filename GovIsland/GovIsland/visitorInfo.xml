@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<locations>
+    <location name="Ferry" url="visitorInfo-ferry"></location>
+    <location name="Subway" url="visitorInfo-subway"></location>
+    <location name="Bus" url="visitorInfo-bus"></location>
+    <location name="Driving-Parking" url="visitorInfo-driving"></location>
+    <location name="New Jersey" url="visitorInfo-nj"></location>
+    <location name="Operating Hours" url="visitorInfo-hours"></location>
+    <location name="Bicycling" url="visitorInfo-bicycling"></location>
+    <location name="Recreation" url="visitorInfo-recreation"></location>
+    <location name="Food and Drink" url="visitorInfo-food"></location>
+    <location name="Admission Fees" url="visitorInfo-fees"></location>
+    <location name="Amenities and Services" url="visitorInfo-services"></location>
+    <location name="Concertgoers Info" url="visitorInfo-concerts"></location>
+    <location name="Rules and Regulations" url="visitorInfo-rules"></location>
+</locations>

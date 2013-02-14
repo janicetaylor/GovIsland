@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<locations annotationType="Army Buildings">
+    <location name="Castle Williams" url="castleWilliams"></location>
+    <location name="Fort Jay Gatehouse" url="fortJayGatehouse"></location>
+    <location name="Fort Jay" url="fortJay"></location>
+    <location name="Fort Jay Interior" url="fortJayInterior"></location>
+    <location name="South Battery" url="southBattery"></location>
+    <location name="National Park Service" url="nationalParkService"></location>
+    <location name="LMCC Arts Center" url="building110"></location>
+    <location name="Soissons Dock" url="soissonsDock"></location>
+    <location name="The Block House" url="blockHouse"></location>
+    <location name="Arsenal CO House" url="arsenalCOhouse"></location>
+    <location name="Arsenal Armory Office" url="building105"></location>
+    <location name="Gun Storehouse" url="building107"></location>   
+    <location name="Clock Tower Building" url="clockTower"></location>
+    <location name="Ordnance Storehouse" url="building25"></location>
+    <location name="Pershing Hall" url="pershingHall"></location>
+    <location name="Marshall Hall" url="marshallHall"></location>
+    <location name="Tampa Memorial Library" url="tampaLibrary"></location>
+    <location name="Post Hospital" url="postHospital"></location>
+    <location name="Post Theater" url="postTheater"></location>
+</locations>

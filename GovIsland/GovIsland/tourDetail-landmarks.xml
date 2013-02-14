@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<locations>
+    <location name="Last British Cannon" url="lastBritishCannon"></location>
+    <location name="War Souvenirs" url="spanishWarSouvenirs"></location>
+    <location name="Early Birds Monument" url="earlyBirds"></location>
+    <location name="Andes Men Gravesite" url="andesMen"></location>
+    <location name="Andes Road" url="andesRoad"></location>
+    <location name="Carder Road" url="carderRoad"></location>
+    <location name="Clayton Road" url="claytonRoad"></location>
+    <location name="Craig Road" url="craigRoad"></location>
+    <location name="Enright Road" url="enrightRoad"></location>
+    <location name="Gresham Road" url="greshamRoad"></location>
+    <location name="Hay Road" url="hayRoad"></location>
+ </locations>

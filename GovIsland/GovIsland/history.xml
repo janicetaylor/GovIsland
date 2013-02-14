@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<locations>
+    <location name="The Dutch 1624-1674" url="history-dutch"></location>
+    <location name="The English 1674-1783" url="history-english"></location>
+    <location name="U.S. Army 1783-1850" url="history-army1"></location>
+    <location name="U.S. Army 1851-1899" url="history-army2"></location>
+    <location name="U.S. Army 1900-1939" url="history-army3"></location>
+    <location name="U.S. Army 1940-1966" url="history-army4"></location>
+    <location name="U.S. Coast Guard 1966-1996" url="history-coastguard"></location>
+    <location name="A New Park 1997-Present" url="history-present"></location>
+</locations>

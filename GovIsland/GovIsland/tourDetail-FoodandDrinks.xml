@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<locations>
+    <location name="North Island Ice Cream" url="northIslandIceCream"></location>
+    <location name="South Island Ice Cream" url="southIslandIceCream"></location>
+    <location name="Wine and Beer Cafe" url="wineAndBeerCafe"></location>
+</locations>

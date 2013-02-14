@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<locations>
+    <location name="Army Buildings" detailxml="tourDetail-armyBuildings.xml" annotationType="Army Buildings"></location>
+    <location name="Army Housing" detailxml="tourDetail-armyHouses.xml" annotationType="Army Homes"></location>
+    <location name="Landmarks" detailxml="tourDetail-landmarks.xml" annotationType="Landmarks"></location>
+    <location name="Open Spaces" detailxml="tourDetail-openSpaces.xml" annotationType="Open Spaces"></location>
+    <location name="Recreation" detailxml="tourDetail-recreation.xml" annotationType="Recreation"></location>
+    <location name="Points of Interest" detailxml="tourDetail-pointsOfInterest.xml" annotationType="Points of Interest"></location>
+    <location name="Restrooms" detailxml="tourDetail-restrooms.xml" annotationType="Restroom"></location>
+    <location name="Food and Drinks" detailxml="tourDetail-FoodandDrinks.xml" annotationType="Food"></location>
+</locations>

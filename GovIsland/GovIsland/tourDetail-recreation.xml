@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<locations>
+    <location name="Bicycle Rentals" url="bicycleRentals"></location>
+    <location name="Pier 101" url="pier101"></location>
+    <location name="Water Taxi Beach" url="waterTaxiBeach"></location>
+</locations>

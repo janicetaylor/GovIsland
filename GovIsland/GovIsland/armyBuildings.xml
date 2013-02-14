@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<locations annotationType="ArmyBuildingLocation" title="Army Buildings">
+    <location name="Castle Williams" latitude="40.692867" longitude="-74.019432" url="castleWilliams"></location>
+    <location name="Fort Jay Gatehouse" latitude="40.691313" longitude="-74.015457" url="fortJayGatehouse"></location>
+    <location name="Fort Jay" latitude="40.691329" longitude="-74.016004" url="fortJay"></location>
+    <location name="Fort Jay Interior" latitude="40.691199" longitude="-74.016322" url="fortJayInterior"></location>
+    <location name="South Battery" latitude="40.687998" longitude="-74.015244" url="southBattery"></location>
+    <location name="National Park Service" latitude="40.692864" longitude="-74.015299" url="nationalParkService"></location>
+    <location name="Soissons Dock" latitude="40.693237" longitude="-74.015327" url="soissonsDock"></location>
+    <location name="LMCC Arts Center" latitude="40.692757" longitude="-74.016361" url="building110"></location>
+    <location name="The Block House" latitude="40.688931" longitude="-74.013917" url="blockHouse"></location>
+    <location name="Arsenal CO's House" latitude="40.692139" longitude="-74.014153" url="arsenalCOhouse"></location>
+    <location name="Arsenal Armory Office" latitude="40.691414" longitude="-74.014252" url="building105"></location>
+    <location name="Gun Storehouse" latitude="40.691821" longitude="-74.014467" url="building107"></location>    
+    <location name="Clock Tower Bldg" latitude="40.691323" longitude="-74.013753" url="clockTower"></location>
+    <location name="Ordnance Storehouse" latitude="40.691056" longitude="-74.013852" url="building25"></location>
+    <location name="Pershing Hall" latitude="40.691553" longitude="-74.01375" url="pershingHall"></location>
+    <location name="Marshall Hall" latitude="40.692329" longitude="-74.01466" url="marshallHall"></location>
+    <location name="Tampa Memorial Library" latitude="40.692533" longitude="-74.018093" url="tampaLibrary"></location>
+    <location name="Post Hospital" latitude="40.691701" longitude="-74.019861" url="postHospital"></location>
+    <location name="Post Theater" latitude="40.687523" longitude="-74.017389" url="postTheater"></location>
+</locations>

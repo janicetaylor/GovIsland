@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<locations annotationType="LandmarkLocation">
+    <location name="Last British Cannon" latitude="40.692522" longitude="-74.015546" url="lastBritishCannon"></location>
+    <location name="War Souvenirs" latitude="40.690389" longitude="-74.013375" url="spanishWarSouvenirs"></location>
+    <location name="Early Birds Monument" latitude="40.68915" longitude="-74.019348" url="earlyBirds"></location>
+    <location name="Andes Men Gravesite" latitude="40.692842" longitude="-74.018624" url="andesMen"></location>
+    <location name="Andes Road" latitude="40.692539" longitude="-74.015974" url="andesRoad"></location>
+    <location name="Carder Road" latitude="40.692388" longitude="-74.014131" url="carderRoad"></location>
+    <location name="Clayton Road" latitude="40.690847" longitude="-74.019555" url="claytonRoad"></location>
+    <location name="Craig Road" latitude="40.684177" longitude="-74.024012" url="craigRoad"></location>
+    <location name="Enright Road" latitude="40.688172" longitude="-74.018551" url="enrightRoad"></location>
+    <location name="Gresham Road" latitude="40.689909" longitude="-74.02052" url="greshamRoad"></location>
+    <location name="Hay Road" latitude="40.691293" longitude="-74.018724" url="hayRoad"></location>
+</locations>

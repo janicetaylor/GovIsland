@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<locations annotationType="FoodLocation" title="Food and Drink">
+    <location name="North Island Ice Cream" latitude="40.692098" longitude="-74.018938" url="northIslandIceCream"></location>
+    <location name="South Island Ice Cream" latitude="40.685343" longitude="-74.025602" url="southIslandIceCream"></location>
+    <location name="Wine and Beer Cafe" latitude="40.693012" longitude="-74.016502" url="wineAndBeerCafe"></location>
+</locations>

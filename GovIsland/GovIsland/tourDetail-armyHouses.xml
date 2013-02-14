@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<locations>
+    <location name="Commanding Officer’s House" url="commandingOfficersQuarters"></location>
+    <location name="Governor's House" url="governorsHouse"></location>
+    <location name="The Dutch House" url="dutchHouse"></location>
+    <location name="Liggett Hall (400)" url="liggettHall"></location>
+    <location name="Nurses’ Quarters (114)" url="bldg114"></location>
+    <location name="Family Quarters (111)" url="bldg111"></location>
+    <location name="Family Quarters (112)" url="bldg112"></location>  
+    <location name="NCO Family Quarters (12)" url="bldg12"></location>   
+    <location name="1855 House (4)" url="bldg4"></location>
+    <location name="1855 House (5)" url="bldg5"></location>
+    <location name="1878 House (6)" url="bldg6"></location>
+    <location name="1878 House (7)" url="bldg7"></location>
+    <location name="1878 House (8)" url="bldg8"></location>
+    <location name="1878 House (10)" url="bldg10"></location>
+    <location name="1878 NCO House (11)" url="bldg11"></location>
+    <location name="1879 House (14)" url="bldg14"></location>
+    <location name="1879 House (15)" url="bldg15"></location>
+    <location name="1879 House (16)" url="bldg16"></location>
+    <location name="1879 House (17)" url="bldg17"></location>
+    <location name="1879 House (18)" url="bldg18"></location>
+    <location name="1891 House (19)" url="bldg19"></location>
+    <location name="1902 House (20)" url="bldg20"></location>
+    <location name="1904 Brick House (403)" url="bldg403"></location>
+    <location name="1902 Brick House (404)" url="bldg404"></location>
+    <location name="1893 Brick House (405)" url="bldg405"></location>
+    <location name="1893 Brick House (406)" url="bldg406"></location>
+    <location name="1894 Brick House (407)" url="bldg407"></location>
+    <location name="1895 Brick House (408)" url="bldg408"></location>
+    <location name="1910 Quarters (409)" url="bldg409"></location>
+    <location name="1917 House (410)" url="bldg410"></location>
+</locations>

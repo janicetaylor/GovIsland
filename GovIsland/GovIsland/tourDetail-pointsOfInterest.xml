@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<locations>
+    <location name="New York Harbor School" url="newYorkHarborSchool"></location>
+    <location name="Earth Matter Compost" url="earthMatterCompost"></location> 
+    <location name="Jewish Synagogue" url="jewishSynagogue"></location>
+    <location name="St. Cornelius the Centurion" url="stCornelius"></location>
+    <location name="Our Lady, Star of the Sea" url="ourLady"></location>
+    <location name="Public School 26" url="ps26"></location>
+</locations>

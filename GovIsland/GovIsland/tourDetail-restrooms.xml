@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<locations>
+    <location name="North Island Restrooms" url="northIslandRestrooms"></location>
+    <location name="South Island Restrooms" url="southIslandRestrooms"></location>
+    <location name="WT Beach Restrooms" url="WTBeachRestrooms"></location>
+</locations>
